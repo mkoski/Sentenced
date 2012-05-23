@@ -1,0 +1,12 @@
+Sentenced
+C programming work 2011
+Authors: Hansi Keijonen & Markus Koski 
+
+Bla bla blaa...
+
+Usage:  
+	-h		print README file
+	-s		read words from command line, <ctrl> + d quits
+	-i<filename>	read words from  the file <filename>
+	-o<filename>	print results to the file <filename> (default is results.txt)
+
